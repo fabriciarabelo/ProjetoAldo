@@ -1,0 +1,3 @@
+Sistema de Gerenciamento - Biblioteca
+
+Para solução de organização em bibliotecas escolares e instituições é fundamental possuir um bom software para a gestão. E visa gerenciar internamente o controle de estoque da biblioteca Unieuro. Atualmente a Unieuro possui um software, porém consta falhas e um banco de dados pequeno para que o profissional possa utilizá-lo e não consta uma lista de estoque para  informações necessária em uma  boa administração.O Administrador do sistema poderá visualizar todo acervo existente existente na biblioteca.O software permitirá ao administrador que cadastre, altere e liste os livros do acervo. 
